@@ -1,0 +1,31 @@
+{
+    "terms": [
+        {
+            "term": "Acanthocytosis",
+            "definition": "Acanthocytosis is a condition characterized by the presence of abnormal red blood cells called acanthocytes. These cells have irregular, spiky projections on their surface. It can be associated with various underlying disorders such as abetalipoproteinemia, liver disease, and certain neurological conditions."
+        },
+        {
+            "term": "Xeroderma pigmentosum",
+            "definition": "Xeroderma pigmentosum is a rare genetic disorder that affects the body's ability to repair DNA damage caused by ultraviolet (UV) light. Individuals with this condition are extremely sensitive to sunlight and have a high risk of developing skin cancers, as well as other eye and neurological problems."
+        },
+        {
+            "term": "Myasthenia gravis",
+            "definition": "Myasthenia gravis is an autoimmune neuromuscular disorder that causes weakness and rapid fatigue of muscles under voluntary control. It occurs when the immune system mistakenly attacks the receptors at the neuromuscular junction, interfering with the normal transmission of nerve impulses to the muscles."
+        },
+        {
+            "term": "Porphyria cutanea tarda",
+            "definition": "Porphyria cutanea tarda is the most common form of porphyria, a group of rare genetic and acquired disorders that affect the production of heme, a component of hemoglobin. In this condition, there is a deficiency of the enzyme uroporphyrinogen decarboxylase, leading to the accumulation of porphyrins in the body. Symptoms may include skin blistering, fragility, and hyperpigmentation upon exposure to sunlight."
+        },
+        {
+            "term": "Whipple's disease",
+            "definition": "Whipple's disease is a rare bacterial infection caused by Tropheryma whipplei. It primarily affects the small intestine but can also involve other organs such as the joints, heart, and central nervous system. Symptoms may include diarrhea, abdominal pain, weight loss, joint pain, and fatigue."
+        }
+    ],
+    "facts": [
+        "Some studies suggest that moderate coffee consumption may reduce the risk of developing gallstones.",
+        "The human body has a natural internal clock called the circadian rhythm, which regulates sleep - wake cycles and can be disrupted by factors like jet lag and shift work.",
+        "A high - fiber diet can help prevent diverticulitis by promoting regular bowel movements and reducing pressure in the colon.",
+        "Excessive intake of fluoride can lead to a condition called fluorosis, which can cause discoloration and pitting of the teeth.",
+        "The use of probiotics has been associated with improved gut health and may help alleviate symptoms of irritable bowel syndrome (IBS)."
+    ]
+}
